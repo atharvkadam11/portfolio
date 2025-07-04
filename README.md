@@ -76,6 +76,3 @@ New-Portfolio/
 - **LinkedIn**: [linkedin.com/in/atharvkadam11](https://www.linkedin.com/in/atharvkadam11/)
 - **GitHub**: [github.com/atharvkadam11](https://github.com/atharvkadam11)
 
----
-
-**Built with ❤️ by Atharv Amit Kadam**
